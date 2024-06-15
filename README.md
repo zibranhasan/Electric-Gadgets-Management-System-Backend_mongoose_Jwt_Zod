@@ -1,24 +1,24 @@
-# Project Name
+##Electric-Gadgets-Management-system
 
-Electric Gadgets management backend
 
-## Prerequisites
 
-Make sure you have the following installed on your system:
-- Node.js (https://nodejs.org/)
+##Backend Overview
+#Objective
 
-## Installation
+-Develop an Electric Gadgets Management Dashboard backend with authentication, CRUD operations, real-time updates, and advanced filtering capabilities.
+#Technologies Used
 
-1. Clone the repository:
+-Node.js, Express, MongoDB, Mongoose, JWT, RTK Query, Redux
+##Features
 
-2. Navigate to the project directory:
-
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-## Usage
+##Authentication
+##JWT for secure authentication
+Role-based access control (User, Manager)
+Electric Gadgets Management
+CRUD operations (Create, Read, Update, Delete)
+Advanced filtering (Price range, Release date, Brand, Category)
+Sales History
+Categorized sales reports (Weekly, Daily, Monthly, Yearly)
 
 ### Running the Application
 
